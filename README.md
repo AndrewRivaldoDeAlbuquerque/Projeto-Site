@@ -8,7 +8,6 @@
     <link rel="stylesheet" href="estilo.css">
 </head>
 <body>
-    <title>Voce Consegue</title>
     <article>
        <h1>Artigo 001</h1>
        <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Cum provident ab sapiente omnis laborum sit ex animi. Ab quidem ea accusantium nostrum nemo quia! Quibusdam id voluptatum ducimus voluptates at?</p>
